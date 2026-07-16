@@ -1,0 +1,1918 @@
+{
+  "meta": {
+    "title": "California Anniversary Road Trip",
+    "subtitle": "From the Golden Gate to the Las Vegas lights",
+    "dateRange": "Dec 10–26, 2026",
+    "travelers": 2,
+    "days": 17,
+    "nights": 16,
+    "overnightBases": 10,
+    "mappedMiles": 1529,
+    "practicalMiles": "1,650–1,800",
+    "nationalParks": 3,
+    "budgetLow": 7745.94,
+    "budgetHigh": 10954.222,
+    "route": "Chicago → San Francisco → Yosemite → Monterey → Big Sur → Santa Barbara → Los Angeles → San Diego → Joshua Tree → Death Valley → Las Vegas → Chicago",
+    "dataNote": "Prices and availability are planning snapshots checked Jul 11, 2026, not reservations."
+  },
+  "days": [
+    {
+      "day": 1,
+      "date": "2026-12-10",
+      "city": "San Francisco — Arrival",
+      "drive": "—",
+      "theme": "First taste of San Francisco — Bay, bridge and cable car ✈️🌉",
+      "sections": [
+        {
+          "heading": "Morning",
+          "items": [
+            "Schedule-fit flight: United ORD 6:00 AM → SFO 8:44 AM, nonstop, $237 total for 2 before bags on Booking.com",
+            "Easier MDW alternative: Southwest 10:00 AM → SFO 12:50 PM, nonstop, $236.80–$237 total for 2; this makes the sightseeing window tighter"
+          ]
+        },
+        {
+          "heading": "Midday",
+          "items": [
+            "Take BART into the city and leave luggage at the Marina/Fisherman's Wharf hotel",
+            "Lunch near the waterfront; see Flight Options for all live fare choices and baggage rules"
+          ]
+        },
+        {
+          "heading": "Afternoon",
+          "items": [
+            "2:30 PM — Pier 39 and the sea lions only if the flight is on time",
+            "4:00–5:05 PM — Golden Gate Bridge; Dec 10 sunset is about 4:50 PM, not 6:00 PM",
+            "If arrival is delayed, protect the bridge sunset and move Pier 39 to the evening"
+          ]
+        },
+        {
+          "heading": "Evening",
+          "items": [
+            "6:00 PM — Dinner in North Beach or Chinatown",
+            "7:30 PM — Historic Powell–Hyde cable car from Powell & Market toward Hyde & Beach; prepay with MuniMobile or Clipper"
+          ]
+        }
+      ],
+      "stop": 1,
+      "base": "San Francisco",
+      "coordinates": [
+        -122.4075201,
+        37.7879363
+      ],
+      "tone": "city",
+      "categories": [
+        "arrival",
+        "city",
+        "culture"
+      ],
+      "isDrivingDay": false,
+      "nights": 2,
+      "budgetPrice": 178.7,
+      "platform": "Booking.com",
+      "stayNote": "Francisco Bay Inn — Booking.com\n8.0★ · $178.70 total ($89.35/night)\nBook →",
+      "lodgings": [
+        {
+          "tier": "Budget",
+          "name": "Francisco Bay Inn — Booking.com",
+          "detail": "8.0★ · $178.70 total ($89.35/night) · Book",
+          "url": "https://www.booking.com/hotel/us/francisco-bay-inn.html?aid=8132308&checkin=2026-12-10&checkout=2026-12-12&no_rooms=1&group_adults=2&selected_currency=USD"
+        },
+        {
+          "tier": "Comfort",
+          "name": "Coventry Motor Inn — Booking.com",
+          "detail": "8.5★ · $269.24 total ($134.62/night) · Book",
+          "url": "https://www.booking.com/hotel/us/coventry-inn.html?aid=8132308&checkin=2026-12-10&checkout=2026-12-12&no_rooms=1&group_adults=2&selected_currency=USD"
+        },
+        {
+          "tier": "Premium",
+          "name": "Beresford Arms — Booking.com",
+          "detail": "8.0★ · $278.00 total ($139.00/night) · Book",
+          "url": "https://www.booking.com/hotel/us/beresford-arms.html?aid=8132308&checkin=2026-12-10&checkout=2026-12-12&no_rooms=1&group_adults=2&selected_currency=USD"
+        }
+      ],
+      "ticketNotes": "• Powell–Hyde cable car (SFMTA)\n• San Francisco sunset timing\n• Flight Options sheet",
+      "resources": [
+        {
+          "label": "Powell–Hyde cable car (SFMTA)",
+          "url": "https://www.sfmta.com/index.php/routes/powell-hyde-cable-car",
+          "city": "San Francisco — Arrival"
+        },
+        {
+          "label": "San Francisco sunset timing — Dec 10",
+          "url": "https://www.timeanddate.com/sun/usa/san-francisco?month=12",
+          "city": "San Francisco — Arrival"
+        }
+      ],
+      "map": null
+    },
+    {
+      "day": 2,
+      "date": "2026-12-11",
+      "city": "San Francisco — Full Day",
+      "drive": "—",
+      "theme": "Redwoods, coastline and the Bay 🌲🌁",
+      "sections": [
+        {
+          "heading": "Before the day",
+          "items": [
+            "Prebook a guided Muir Woods/Sausalito round trip, a reserved seasonal shuttle, or a taxi with a guaranteed return",
+            "Do not rely on summoning an on-demand rideshare from Muir Woods: dependable cell service is not available and the shuttle is seasonal"
+          ]
+        },
+        {
+          "heading": "Morning",
+          "items": [
+            "8:30 AM — Breakfast at the hotel or a local café",
+            "9:30–11:30 AM — Lands End coastal trail (~3 mi, ocean cliffs and old ruins)"
+          ]
+        },
+        {
+          "heading": "Midday",
+          "items": [
+            "Around noon — Depart using the confirmed Muir Woods transportation plan",
+            "Cathedral Grove / main redwood loop at a quiet pace"
+          ]
+        },
+        {
+          "heading": "Afternoon",
+          "items": [
+            "Continue to Sausalito if included in the reserved transport plan",
+            "Return to San Francisco using the guaranteed ride or a confirmed ferry connection"
+          ]
+        },
+        {
+          "heading": "Evening",
+          "items": [
+            "6:30 PM — Dinner and Mission murals or North Beach jazz",
+            "Early night before the SFO rental pickup and Yosemite drive"
+          ]
+        }
+      ],
+      "stop": 1,
+      "base": "San Francisco",
+      "coordinates": [
+        -122.4075201,
+        37.7879363
+      ],
+      "tone": "coast",
+      "categories": [
+        "coast",
+        "nature",
+        "culture"
+      ],
+      "isDrivingDay": false,
+      "nights": 0,
+      "budgetPrice": null,
+      "platform": null,
+      "stayNote": "— Same hotel as previous night —\n(San Francisco, see Day 1)",
+      "lodgings": [],
+      "ticketNotes": "• Muir Woods transport guidance (NPS)\n• Muir Woods parking / shuttle reservations",
+      "resources": [
+        {
+          "label": "Muir Woods transportation guidance (NPS)",
+          "url": "https://home.nps.gov/muwo/planyourvisit/directions.htm",
+          "city": "San Francisco — Full Day"
+        },
+        {
+          "label": "Muir Woods parking / shuttle reservations (NPS)",
+          "url": "https://home.nps.gov/muwo/planyourvisit/reservations.htm",
+          "city": "San Francisco — Full Day"
+        }
+      ],
+      "map": null
+    },
+    {
+      "day": 3,
+      "date": "2026-12-12",
+      "city": "Drive to Yosemite — El Portal",
+      "drive": "SFO Rental Car Center → Yosemite View Lodge (El Portal) via Merced · 200 mi · 3 hr 33 min baseline; allow 4.5–5 hrs after pickup and in winter",
+      "theme": "Airport pickup, then city to snowy Sierra 🚗🏔️",
+      "sections": [
+        {
+          "heading": "Morning",
+          "items": [
+            "6:15 AM — Check out with luggage and travel back to SFO by BART or a prebooked ride",
+            "Use the 24-hour AirTrain Blue Line from the terminals/BART station to the SFO Rental Car Center",
+            "8:00 AM — Pick up the SUV at the airport counter, matching the rental shortlist and quote times",
+            "Confirm the contract says AWD, inspect tires and obtain written traction-device guidance before leaving",
+            "8:30–9:00 AM — Depart via Merced, CA-99 and Hwy 140"
+          ]
+        },
+        {
+          "heading": "Winter gate",
+          "items": [
+            "Yosemite requires chains/cables to be carried when controls are active, including in AWD rentals",
+            "If controls require equipment the rental agreement or assigned vehicle does not permit, do not install unauthorized devices: use YARTS from the El Portal/Yosemite View Lodge corridor for the park day"
+          ]
+        },
+        {
+          "heading": "Midday",
+          "items": [
+            "Lunch and fuel in Merced; recheck Yosemite road and chain controls"
+          ]
+        },
+        {
+          "heading": "Afternoon",
+          "items": [
+            "Aim to reach El Portal around 2:00–3:00 PM, depending on pickup, traffic and weather",
+            "Check in and keep Tunnel View optional unless daylight and roads are comfortable"
+          ]
+        },
+        {
+          "heading": "Evening",
+          "items": [
+            "Dinner in El Portal; save the YARTS timetable and prepare layers and a day pack"
+          ]
+        }
+      ],
+      "stop": 2,
+      "base": "Yosemite / El Portal",
+      "coordinates": [
+        -119.7667467,
+        37.6779866
+      ],
+      "tone": "park",
+      "categories": [
+        "drive",
+        "park",
+        "winter"
+      ],
+      "isDrivingDay": true,
+      "nights": 2,
+      "budgetPrice": 469.2,
+      "platform": "Official quote + 15% allowance",
+      "stayNote": "Yosemite View Lodge — El Portal\n$408 room subtotal; $469.20 planning allowance\nDec 12–14 · Official quote →",
+      "lodgings": [
+        {
+          "tier": "Budget",
+          "name": "Yosemite View Lodge — El Portal",
+          "detail": "$408 room subtotal; $469.20 planning allowance · Dec 12–14 · Official quote",
+          "url": "https://direct-book.com/properties/YosemiteViewLodge?locale=en&skin=0&items[0][adults]=2&items[0][children]=0&items[0][infants]=0&currency=USD&checkInDate=2026-12-12&checkOutDate=2026-12-14&trackPage=no"
+        },
+        {
+          "tier": "Comfort",
+          "name": "Yosemite Valley Lodge — inside park",
+          "detail": "$723.26 room subtotal; ~$822.35 est. with listed taxes · Dec 12–14 · Book",
+          "url": "https://reservations.ahlsmsworld.com/Yosemite/Plan-Your-Trip/Accommodations/Yosemite-Valley-Lodge"
+        },
+        {
+          "tier": "Premium",
+          "name": "The Ahwahnee — inside park",
+          "detail": "No full-stay inventory when checked Jul 11 · Check live availability",
+          "url": "https://www.travelyosemite.com/lodging/the-ahwahnee"
+        }
+      ],
+      "ticketNotes": "• SFO Rental Car Center / AirTrain\n• Yosemite road & chain status (NPS)\n• Yosemite tire-chain rules (NPS)\n• YARTS Hwy 140 schedule",
+      "resources": [
+        {
+          "label": "Yosemite road & chain status (NPS)",
+          "url": "https://www.nps.gov/yose/planyourvisit/conditions.htm",
+          "city": "Drive to Yosemite — El Portal"
+        },
+        {
+          "label": "Yosemite tire-chain rules (NPS)",
+          "url": "https://www.nps.gov/yose/planyourvisit/tirechains.htm",
+          "city": "Drive to Yosemite — El Portal"
+        },
+        {
+          "label": "SFO Rental Car Center / AirTrain",
+          "url": "https://www.flysfo.com/to-from/rental-cars",
+          "city": "Drive to Yosemite — El Portal"
+        },
+        {
+          "label": "YARTS Highway 140 schedule",
+          "url": "https://www.yarts.com/bus_routes/highway-140/",
+          "city": "Drive to Yosemite — El Portal"
+        }
+      ],
+      "map": {
+        "route": "SFO Rental Car Center → Yosemite View Lodge (El Portal) via Merced",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=San+Francisco+International+Airport+(SFO),+San+Francisco,+CA&destination=Yosemite+View+Lodge,+El+Portal,+CA&waypoints=Merced,+CA&travelmode=driving",
+        "note": "200 mi / 3 hr 33 min observed Jul 11, 2026; allow 4.5–5 hrs after airport pickup and for winter conditions"
+      }
+    },
+    {
+      "day": 4,
+      "date": "2026-12-13",
+      "city": "Yosemite Valley",
+      "drive": "—",
+      "theme": "Snowy granite giants ❄️🪨",
+      "sections": [
+        {
+          "heading": "Morning decision",
+          "items": [
+            "7:30 AM — Check road and chain controls before moving the SUV",
+            "Drive into Yosemite Valley only when the assigned vehicle and rental agreement legally satisfy the current control level",
+            "If not, board YARTS from the El Portal/Yosemite View Lodge corridor and leave the rental parked"
+          ]
+        },
+        {
+          "heading": "Morning",
+          "items": [
+            "8:00 AM — El Portal → Yosemite Valley, ~15 mi / ~30–35 min each way in normal conditions",
+            "9:00–11:30 AM — Valley Loop highlights: El Capitan Meadow, Bridalveil Fall and Cook's Meadow"
+          ]
+        },
+        {
+          "heading": "Midday",
+          "items": [
+            "Picnic or Yosemite Village lunch; carry food, water and warm layers"
+          ]
+        },
+        {
+          "heading": "Afternoon",
+          "items": [
+            "1:30–3:15 PM — Mirror Lake easy trail or a slower Valley-floor walk",
+            "3:45 PM — Tunnel View for golden-hour light only if transport, road and parking conditions are comfortable"
+          ]
+        },
+        {
+          "heading": "Evening",
+          "items": [
+            "Return to El Portal before full darkness if weather is deteriorating",
+            "Dinner and an early night before the Monterey transfer"
+          ]
+        }
+      ],
+      "stop": 2,
+      "base": "Yosemite / El Portal",
+      "coordinates": [
+        -119.7667467,
+        37.6779866
+      ],
+      "tone": "park",
+      "categories": [
+        "park",
+        "winter",
+        "nature"
+      ],
+      "isDrivingDay": false,
+      "nights": 0,
+      "budgetPrice": null,
+      "platform": null,
+      "stayNote": "— Same hotel as previous night —\n(El Portal, see Day 3)",
+      "lodgings": [],
+      "ticketNotes": "• YARTS Hwy 140 schedule\n• Morning chain-control decision",
+      "resources": [],
+      "map": null
+    },
+    {
+      "day": 5,
+      "date": "2026-12-14",
+      "city": "Drive to Monterey",
+      "drive": "Yosemite View Lodge (El Portal) → Monterey via Gilroy · 190 mi · 3 hr 42 min baseline; allow 4–4.5 hrs",
+      "theme": "Sierra to sea 🚗🌊",
+      "sections": [
+        {
+          "heading": "Morning",
+          "items": [
+            "8:00 AM — Breakfast and road-condition check",
+            "8:30 AM — Depart El Portal for Monterey via Hwy 140 and Gilroy"
+          ]
+        },
+        {
+          "heading": "Midday",
+          "items": [
+            "Lunch and fuel in Gilroy; keep the stop short enough to arrive before dark"
+          ]
+        },
+        {
+          "heading": "Afternoon",
+          "items": [
+            "Around 2:00–3:00 PM — Arrive Monterey and check in",
+            "Cannery Row or the waterfront at an easy pace",
+            "Optional 17-Mile Drive only if you arrive early with good daylight; otherwise keep it on the anniversary day"
+          ]
+        },
+        {
+          "heading": "Evening",
+          "items": [
+            "Seafood dinner near Fisherman's Wharf",
+            "Early night before the anniversary activities"
+          ]
+        }
+      ],
+      "stop": 3,
+      "base": "Monterey / Carmel",
+      "coordinates": [
+        -121.8946388,
+        36.600256
+      ],
+      "tone": "coast",
+      "categories": [
+        "drive",
+        "coast"
+      ],
+      "isDrivingDay": true,
+      "nights": 2,
+      "budgetPrice": 131.4,
+      "platform": "Booking.com",
+      "stayNote": "Arbor Inn Monterey — Booking.com\n8.3★ · $131.40 total ($65.70/night)\nBook →",
+      "lodgings": [
+        {
+          "tier": "Budget",
+          "name": "Arbor Inn Monterey — Booking.com",
+          "detail": "8.3★ · $131.40 total ($65.70/night) · Book",
+          "url": "https://www.booking.com/hotel/us/quality-inn-monterey.html?aid=8132308&checkin=2026-12-14&checkout=2026-12-16&no_rooms=1&group_adults=2&selected_currency=USD"
+        },
+        {
+          "tier": "Comfort",
+          "name": "Stargazer Hotel — Booking.com",
+          "detail": "8.1★ · $138.00 total ($69.00/night) · Book",
+          "url": "https://www.booking.com/hotel/us/clarion-monterey.html?aid=8132308&checkin=2026-12-14&checkout=2026-12-16&no_rooms=1&group_adults=2&selected_currency=USD"
+        },
+        {
+          "tier": "Premium",
+          "name": "Lone Oak Lodge — Booking.com",
+          "detail": "8.4★ · $215.00 total ($107.50/night) · Book",
+          "url": "https://www.booking.com/hotel/us/lone-oak-lodge.html?aid=8132308&checkin=2026-12-14&checkout=2026-12-16&no_rooms=1&group_adults=2&selected_currency=USD"
+        }
+      ],
+      "ticketNotes": "—",
+      "resources": [],
+      "map": {
+        "route": "Yosemite View Lodge (El Portal) → Monterey via Gilroy",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Yosemite+View+Lodge,+El+Portal,+CA&destination=Monterey,+CA&waypoints=Gilroy,+CA&travelmode=driving",
+        "note": "190 mi / 3 hr 42 min observed"
+      }
+    },
+    {
+      "day": 6,
+      "date": "2026-12-15",
+      "city": "★ Anniversary — Monterey / Carmel",
+      "drive": "—",
+      "theme": "Otters, whales, and the coast that made you fall for California 🦦🥂",
+      "sections": [
+        {
+          "heading": "Morning",
+          "items": [
+            "8:00 AM — Breakfast",
+            "9:00–11:00 AM — Gray-whale watching boat trip (book morning slot, calmer seas) — ~$50–75pp, see ticket links →"
+          ]
+        },
+        {
+          "heading": "Midday ($60–90pp)",
+          "items": [
+            "11:30 AM — Sea-otter kayaking tour in Monterey Bay, Cannery Row — calm water, otters and sea lions up close, see ticket links →",
+            "1:30 PM — Lunch on Cannery Row"
+          ]
+        },
+        {
+          "heading": "Afternoon",
+          "items": [
+            "3:00 PM — Point Lobos Reserve (Monterey → Point Lobos, ~4 mi, ~10 min) — short cliff trails, dramatic coastline",
+            "4:30 PM — Drive the 17-Mile Drive scenic loop toward Carmel (~17 mi loop, ~45 min with stops)"
+          ]
+        },
+        {
+          "heading": "Evening — ★ Anniversary",
+          "items": [
+            "5:30 PM — Sunset at a Carmel viewpoint or Point Lobos overlook",
+            "6:00 PM — Walk Carmel-by-the-Sea's storybook village, browse galleries",
+            "7:30 PM — Anniversary dinner — book ahead, worth the splurge tonight"
+          ]
+        }
+      ],
+      "stop": 3,
+      "base": "Monterey / Carmel",
+      "coordinates": [
+        -121.8946388,
+        36.600256
+      ],
+      "tone": "celebration",
+      "categories": [
+        "coast",
+        "anniversary",
+        "wildlife"
+      ],
+      "isDrivingDay": false,
+      "nights": 0,
+      "budgetPrice": null,
+      "platform": null,
+      "stayNote": "— Same hotel as previous night —\n(Monterey — Munras Ave, see Day 5)",
+      "lodgings": [],
+      "ticketNotes": "• Monterey Winter Whale Watch – Book\n• Cannery Row Otter Kayak Tour – Book",
+      "resources": [
+        {
+          "label": "Monterey Winter Whale Watch – Book",
+          "url": "https://www.booking.com/attractions/us/pr7wzjvi5u95-monterey-bay-winter-whale-watching-tour.en-gb.html?start_date=2026-12-15&end_date=2026-12-16&selected_currency=USD&aid=8132308",
+          "city": "★ Anniversary — Monterey / Carmel"
+        },
+        {
+          "label": "Cannery Row Otter Kayak Tour – Book",
+          "url": "https://adventuresbythesea.com/cannery-row/kayak-tour/",
+          "city": "★ Anniversary — Monterey / Carmel"
+        }
+      ],
+      "map": null
+    },
+    {
+      "day": 7,
+      "date": "2026-12-16",
+      "city": "Big Sur Coast Highway → Cambria",
+      "drive": "Monterey → Bixby Creek Bridge → Elephant Seal Vista Point → Cambria · 102 mi · 2 hr 55 min driving only",
+      "theme": "Highway 1 is the destination 🌉📸",
+      "sections": [
+        {
+          "heading": "Morning",
+          "items": [
+            "8:00 AM — Fuel up, recheck Caltrans QuickMap and depart Monterey",
+            "Use US-101 as the fallback if Highway 1 closes; recheck 24 hours before and again that morning",
+            "Bixby Creek Bridge photo stop"
+          ]
+        },
+        {
+          "heading": "Midday",
+          "items": [
+            "Cap the day at three meaningful stops, with slow scenic pullouts and a picnic lunch",
+            "McWay Falls Overlook Trail remains closed into 2026: no trail or beach access",
+            "Only take a legal roadside glimpse if parking and traffic are clearly safe; skip it if full"
+          ]
+        },
+        {
+          "heading": "Afternoon",
+          "items": [
+            "Continue to Elephant Seal Vista Point near San Simeon",
+            "Aim to reach Cambria around 4:00 PM; Dec 16 sunset is about 4:53 PM"
+          ]
+        },
+        {
+          "heading": "Evening",
+          "items": [
+            "Moonstone Beach boardwalk or Cambria Christmas Market",
+            "Dinner and early night for the first Hearst tour tomorrow"
+          ]
+        }
+      ],
+      "stop": 4,
+      "base": "Big Sur / Cambria",
+      "coordinates": [
+        -121.0872908,
+        35.5513597
+      ],
+      "tone": "coast",
+      "categories": [
+        "drive",
+        "coast",
+        "highway-1"
+      ],
+      "isDrivingDay": true,
+      "nights": 1,
+      "budgetPrice": 98.01,
+      "platform": "Booking.com",
+      "stayNote": "Creekside Inn Downtown — Booking.com\n8.7★ · $98.01 total ($98.01/night)\nBook →",
+      "lodgings": [
+        {
+          "tier": "Budget",
+          "name": "Creekside Inn Downtown — Booking.com",
+          "detail": "8.7★ · $98.01 total ($98.01/night) · Book",
+          "url": "https://www.booking.com/hotel/us/creekside-inn.html?aid=8132308&checkin=2026-12-16&checkout=2026-12-17&no_rooms=1&group_adults=2&selected_currency=USD"
+        },
+        {
+          "tier": "Comfort",
+          "name": "Bluebird Inn — Booking.com",
+          "detail": "8.8★ · $124.00 total ($124.00/night) · Book",
+          "url": "https://www.booking.com/hotel/us/bluebird-inn.html?aid=8132308&checkin=2026-12-16&checkout=2026-12-17&no_rooms=1&group_adults=2&selected_currency=USD"
+        },
+        {
+          "tier": "Premium",
+          "name": "Castle Inn (Moonstone Beach) — Booking.com",
+          "detail": "9.0★ · $144.00 total ($144.00/night) · Book",
+          "url": "https://www.booking.com/hotel/us/castle-inn-cambria.html?aid=8132308&checkin=2026-12-16&checkout=2026-12-17&no_rooms=1&group_adults=2&selected_currency=USD"
+        }
+      ],
+      "ticketNotes": "• Highway 1 live conditions (Caltrans)\n• McWay Falls / park status (official)",
+      "resources": [
+        {
+          "label": "Highway 1 live conditions (Caltrans)",
+          "url": "https://quickmap.dot.ca.gov/",
+          "city": "Big Sur Coast Highway → Cambria"
+        },
+        {
+          "label": "McWay Falls / park status (official)",
+          "url": "https://www.parks.ca.gov/?page_id=578",
+          "city": "Big Sur Coast Highway → Cambria"
+        }
+      ],
+      "map": {
+        "route": "Monterey → Bixby Creek Bridge → Elephant Seal Vista Point → Cambria",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Monterey,+CA&destination=Cambria,+CA&waypoints=Bixby+Creek+Bridge,+CA%7CPiedras+Blancas+Elephant+Seal+Vista+Point,+CA&travelmode=driving",
+        "note": "102 mi / 2 hr 55 min observed; McWay trail removed because official closure extends into 2026"
+      }
+    },
+    {
+      "day": 8,
+      "date": "2026-12-17",
+      "city": "Hearst Castle → Santa Barbara",
+      "drive": "Cambria → Hearst Castle → Santa Barbara · 145 mi · 2 hr 38 min driving only",
+      "theme": "Hearst in the morning, then an easy southbound afternoon 🏰🚗",
+      "sections": [
+        {
+          "heading": "Morning",
+          "items": [
+            "7:30 AM — Breakfast and checkout",
+            "8:10 AM — Drive Cambria → Hearst Castle Visitor Center",
+            "8:35 AM — Arrive at least 25 minutes before a first tour around 9:00 AM",
+            "Reserve the tour in advance; use the official link in this row"
+          ]
+        },
+        {
+          "heading": "Midday",
+          "items": [
+            "Around 10:30–11:00 AM — Depart San Simeon for Santa Barbara",
+            "Lunch in San Luis Obispo or Santa Maria"
+          ]
+        },
+        {
+          "heading": "Afternoon",
+          "items": [
+            "Around 2:30–3:30 PM — Arrive Santa Barbara and check in",
+            "State Street or Mission Santa Barbara at a relaxed pace"
+          ]
+        },
+        {
+          "heading": "Evening",
+          "items": [
+            "Stearns Wharf sunset and dinner nearby"
+          ]
+        }
+      ],
+      "stop": 5,
+      "base": "Santa Barbara",
+      "coordinates": [
+        -119.702667,
+        34.4221319
+      ],
+      "tone": "coast",
+      "categories": [
+        "drive",
+        "coast",
+        "culture"
+      ],
+      "isDrivingDay": true,
+      "nights": 2,
+      "budgetPrice": 246.56,
+      "platform": "Booking.com",
+      "stayNote": "Oasis Inn and Suites — Booking.com\n8.2★ · $246.56 total ($123.28/night)\nBook →",
+      "lodgings": [
+        {
+          "tier": "Budget",
+          "name": "Oasis Inn and Suites — Booking.com",
+          "detail": "8.2★ · $246.56 total ($123.28/night) · Book",
+          "url": "https://www.booking.com/hotel/us/oasis-inn-amp-suites.html?aid=8132308&checkin=2026-12-17&checkout=2026-12-19&no_rooms=1&group_adults=2&selected_currency=USD"
+        },
+        {
+          "tier": "Comfort",
+          "name": "Orange Tree Inn — Booking.com",
+          "detail": "7.5★ · $247.00 total ($123.50/night) · Book",
+          "url": "https://www.booking.com/hotel/us/orange-tree-inn.html?aid=8132308&checkin=2026-12-17&checkout=2026-12-19&no_rooms=1&group_adults=2&selected_currency=USD"
+        },
+        {
+          "tier": "Premium",
+          "name": "The Franciscan Hotel — Booking.com",
+          "detail": "8.9★ · $396.54 total ($198.27/night) · Book",
+          "url": "https://www.booking.com/hotel/us/franciscan-inn-santa-barbara.html?aid=8132308&checkin=2026-12-17&checkout=2026-12-19&no_rooms=1&group_adults=2&selected_currency=USD"
+        }
+      ],
+      "ticketNotes": "Hearst Castle — reserve first morning tour",
+      "resources": [
+        {
+          "label": "Hearst Castle — reserve first morning tour",
+          "url": "https://hearstcastle.org/tour-hearst-castle/daily-tours/",
+          "city": "Hearst Castle → Santa Barbara"
+        }
+      ],
+      "map": {
+        "route": "Cambria → Hearst Castle → Santa Barbara",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Cambria,+CA&destination=Santa+Barbara,+CA&waypoints=Hearst+Castle+Visitor+Center,+San+Simeon,+CA&travelmode=driving",
+        "note": "145 mi / 2 hr 38 min driving only; first Hearst tour moved here"
+      }
+    },
+    {
+      "day": 9,
+      "date": "2026-12-18",
+      "city": "Santa Barbara — Rest Day",
+      "drive": "—",
+      "theme": "The breather 🧘☀️",
+      "sections": [
+        {
+          "heading": "Morning",
+          "items": [
+            "9:00 AM — Slow breakfast, no alarm",
+            "10:00 AM — Beach time — East Beach or Butterfly Beach"
+          ]
+        },
+        {
+          "heading": "Midday (free)",
+          "items": [
+            "12:30 PM — Casual lunch, no plans",
+            "1:30 PM — Optional easy walk: Douglas Family Preserve bluffs (ocean views, flat trail)"
+          ]
+        },
+        {
+          "heading": "Afternoon",
+          "items": [
+            "3:00 PM — Wander the Funk Zone (wineries, breweries, art) or just relax at the hotel"
+          ]
+        },
+        {
+          "heading": "Evening",
+          "items": [
+            "6:00 PM — Early, easy dinner",
+            "Pack for tomorrow's move to LA"
+          ]
+        }
+      ],
+      "stop": 5,
+      "base": "Santa Barbara",
+      "coordinates": [
+        -119.702667,
+        34.4221319
+      ],
+      "tone": "rest",
+      "categories": [
+        "rest",
+        "coast"
+      ],
+      "isDrivingDay": false,
+      "nights": 0,
+      "budgetPrice": null,
+      "platform": null,
+      "stayNote": "— Same hotel as previous night —\n(Santa Barbara, see Day 8)",
+      "lodgings": [],
+      "ticketNotes": "—",
+      "resources": [],
+      "map": null
+    },
+    {
+      "day": 10,
+      "date": "2026-12-19",
+      "city": "Drive to Los Angeles",
+      "drive": "Santa Barbara → Los Angeles (Culver City) · ~95 mi · ~2 hrs",
+      "theme": "Into Los Angeles — Route 66 meets the Pacific 🚗🌴",
+      "sections": [
+        {
+          "heading": "Morning",
+          "items": [
+            "9:00 AM — Breakfast and depart Santa Barbara for Culver City (~95 mi / ~2 hrs)"
+          ]
+        },
+        {
+          "heading": "Midday",
+          "items": [
+            "11:30 AM — Check in or leave luggage at the Culver City hotel",
+            "12:30 PM — Lunch nearby"
+          ]
+        },
+        {
+          "heading": "Afternoon",
+          "items": [
+            "2:00 PM — Santa Monica Pier: find the Route 66 “End of the Trail” sign and take the centennial photo",
+            "2026 is Route 66's 100th anniversary; the Chicago-to-Santa Monica connection makes this a meaningful American road-trip moment",
+            "Ferris wheel / boardwalk, then a 4:00 PM Venice Beach and canals walk"
+          ]
+        },
+        {
+          "heading": "Evening",
+          "items": [
+            "6:30 PM — Dinner on the west side",
+            "Keep the evening easy before the Hollywood studio day"
+          ]
+        }
+      ],
+      "stop": 6,
+      "base": "Los Angeles / Culver City",
+      "coordinates": [
+        -118.396466,
+        34.0211224
+      ],
+      "tone": "city",
+      "categories": [
+        "drive",
+        "city",
+        "culture",
+        "route-66"
+      ],
+      "isDrivingDay": true,
+      "nights": 2,
+      "budgetPrice": 196,
+      "platform": "Booking.com",
+      "stayNote": "Culver City Hostel (private room) — Booking.com\nunrated · $196.00 total ($98.00/night)\nBook →",
+      "lodgings": [
+        {
+          "tier": "Budget",
+          "name": "Culver City Hostel (private room) — Booking.com",
+          "detail": "unrated · $196.00 total ($98.00/night) · Book",
+          "url": "https://www.booking.com/hotel/us/newly-built-hostel.html?aid=8132308&checkin=2026-12-19&checkout=2026-12-21&no_rooms=1&group_adults=2&selected_currency=USD"
+        },
+        {
+          "tier": "Comfort",
+          "name": "Galaxy Inn — Booking.com",
+          "detail": "8.1★ · $269.98 total ($134.99/night) · Book",
+          "url": "https://www.booking.com/hotel/us/galaxy-inn-los-angeles.html?aid=8132308&checkin=2026-12-19&checkout=2026-12-21&no_rooms=1&group_adults=2&selected_currency=USD"
+        },
+        {
+          "tier": "Premium",
+          "name": "Hilton Los Angeles-Culver City — Booking.com",
+          "detail": "8.4★ · $326.36 total ($163.18/night) · Book",
+          "url": "https://www.booking.com/hotel/us/doubletree-by-hilton-los-angeles-westside.html?aid=8132308&checkin=2026-12-19&checkout=2026-12-21&no_rooms=1&group_adults=2&selected_currency=USD"
+        }
+      ],
+      "ticketNotes": "• Route 66 centennial / End of the Trail (Visit Santa Monica)",
+      "resources": [
+        {
+          "label": "Route 66 centennial / End of the Trail",
+          "url": "https://www.santamonica.com/route66/",
+          "city": "Drive to Los Angeles"
+        }
+      ],
+      "map": {
+        "route": "Santa Barbara → Culver City",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Santa+Barbara%2C+CA&destination=Culver+City%2C+CA&travelmode=driving",
+        "note": "Existing current Google Maps capture retained"
+      }
+    },
+    {
+      "day": 11,
+      "date": "2026-12-20",
+      "city": "Los Angeles — Hollywood Day",
+      "drive": "—",
+      "theme": "Step inside Hollywood, then see it from above 🎬✨",
+      "sections": [
+        {
+          "heading": "Morning",
+          "items": [
+            "7:15 AM — Breakfast and depart Culver City with traffic buffer",
+            "8:00 AM — Arrive at Warner Bros. Studio Tour Hollywood; bring government-issued photo ID",
+            "8:30–11:30 AM — Working-studio tour and self-guided exhibits (~3 hrs; current adult price $79)"
+          ]
+        },
+        {
+          "heading": "Midday",
+          "items": [
+            "11:45 AM — Lunch in Burbank, Los Feliz or Hollywood",
+            "1:15–2:15 PM — TCL Chinese Theatre forecourt / short tour and a focused Walk of Fame visit",
+            "Do not turn Hollywood Boulevard into a long checklist"
+          ]
+        },
+        {
+          "heading": "Afternoon",
+          "items": [
+            "2:30–3:15 PM — Travel to Griffith Observatory and park or use the shuttle",
+            "3:30 PM onward — Observatory, Hollywood Sign and city views through the roughly 4:45 PM sunset"
+          ]
+        },
+        {
+          "heading": "Evening",
+          "items": [
+            "Stay for the first city lights",
+            "6:30–7:30 PM — Dinner in Los Feliz or Hollywood",
+            "Getty Center is intentionally removed; this day now reflects the traveler's stronger interest in Hollywood"
+          ]
+        }
+      ],
+      "stop": 6,
+      "base": "Los Angeles / Culver City",
+      "coordinates": [
+        -118.396466,
+        34.0211224
+      ],
+      "tone": "city",
+      "categories": [
+        "city",
+        "culture",
+        "hollywood"
+      ],
+      "isDrivingDay": false,
+      "nights": 0,
+      "budgetPrice": null,
+      "platform": null,
+      "stayNote": "— Same hotel as previous night —\n(Los Angeles — Culver City, see Day 10)",
+      "lodgings": [],
+      "ticketNotes": "• Warner Bros. Studio Tour — Book\n• TCL Chinese Theatre tour / forecourt",
+      "resources": [
+        {
+          "label": "Warner Bros. Studio Tour — Book",
+          "url": "https://www.wbstudiotour.com/tour/studio/",
+          "city": "Los Angeles — Hollywood Day"
+        },
+        {
+          "label": "TCL Chinese Theatre tours",
+          "url": "https://www.tclchinesetheatres.com/tours",
+          "city": "Los Angeles — Hollywood Day"
+        }
+      ],
+      "map": null
+    },
+    {
+      "day": 12,
+      "date": "2026-12-21",
+      "city": "Tide-aware drive to San Diego",
+      "drive": "Culver City → Cabrillo National Monument → Sunset Cliffs → San Diego · 146 mi · 3 hr 16 min baseline; allow 4+ hrs with traffic",
+      "theme": "Arrive with the tide, not against it 🌊🚗",
+      "sections": [
+        {
+          "heading": "Morning",
+          "items": [
+            "7:30–8:00 AM — Depart Culver City; avoid a leisurely LA morning today",
+            "Drive directly toward Point Loma with one short rest stop"
+          ]
+        },
+        {
+          "heading": "Midday",
+          "items": [
+            "Target Cabrillo arrival around 12:15–12:30 PM",
+            "12:30–3:00 PM — Tidepool window around the predicted 1:33 PM low tide (−0.94 ft)",
+            "Recheck NOAA and NPS access 24–48 hours beforehand; swell, weather or staffing can still close the area"
+          ]
+        },
+        {
+          "heading": "Afternoon",
+          "items": [
+            "Around 4:00 PM — Sunset Cliffs Natural Park",
+            "Check into the San Diego hotel after sunset"
+          ]
+        },
+        {
+          "heading": "Evening",
+          "items": [
+            "Dinner in Point Loma, Old Town or Little Italy; keep the evening light"
+          ]
+        }
+      ],
+      "stop": 7,
+      "base": "San Diego",
+      "coordinates": [
+        -117.162772,
+        32.7174202
+      ],
+      "tone": "coast",
+      "categories": [
+        "drive",
+        "coast",
+        "tide"
+      ],
+      "isDrivingDay": true,
+      "nights": 2,
+      "budgetPrice": 164,
+      "platform": "Expedia",
+      "stayNote": "Heritage Inn San Diego — Expedia\n7.2★ · $164.00 total ($82.00/night)\nBook →",
+      "lodgings": [
+        {
+          "tier": "Budget",
+          "name": "Heritage Inn San Diego — Expedia",
+          "detail": "7.2★ · $164.00 total ($82.00/night) · Book",
+          "url": "https://www.expedia.com/.h2202716.Hotel-Information?chkin=2026-12-21&chkout=2026-12-23&rm1=a2&SEOCID=U.HOTEL.CLAUDEAI-MICROAPP"
+        },
+        {
+          "tier": "Comfort",
+          "name": "Best Western Yacht Harbor (Point Loma) — Booking.com",
+          "detail": "8.1★ · $228.00 total ($114.00/night) · Book",
+          "url": "https://www.booking.com/hotel/us/best-western-yacht-harbor.html?aid=8132308&checkin=2026-12-21&checkout=2026-12-23&no_rooms=1&group_adults=2&selected_currency=USD"
+        },
+        {
+          "tier": "Premium",
+          "name": "Comfort Inn Gaslamp — Booking.com",
+          "detail": "7.5★ · $200.73 total ($100.36/night) · Book",
+          "url": "https://www.booking.com/hotel/us/comfort-inn-gaslamp.html?aid=8132308&checkin=2026-12-21&checkout=2026-12-23&no_rooms=1&group_adults=2&selected_currency=USD"
+        }
+      ],
+      "ticketNotes": "• NOAA tide prediction — San Diego, Dec 21\n• Cabrillo tidepool guidance (NPS)",
+      "resources": [
+        {
+          "label": "NOAA tide prediction — San Diego, Dec 21",
+          "url": "https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9410170&units=standard&bdate=20261221&edate=20261221&timezone=LST%2FLDT&clock=12hour&datum=MLLW&interval=hilo&action=dailychart",
+          "city": "Tide-aware drive to San Diego"
+        },
+        {
+          "label": "Cabrillo tidepool guidance (NPS)",
+          "url": "https://www.nps.gov/cabr/learn/nature/tidepools.htm",
+          "city": "Tide-aware drive to San Diego"
+        }
+      ],
+      "map": {
+        "route": "Culver City → Cabrillo National Monument → Sunset Cliffs → San Diego",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Culver+City,+CA&destination=San+Diego,+CA&waypoints=Cabrillo+National+Monument,+San+Diego,+CA%7CSunset+Cliffs+Natural+Park,+San+Diego,+CA&travelmode=driving",
+        "note": "146 mi / 3 hr 16 min baseline; scheduled around Cabrillo low tide"
+      }
+    },
+    {
+      "day": 13,
+      "date": "2026-12-22",
+      "city": "San Diego — Full Day",
+      "drive": "—",
+      "theme": "Sea caves and an aircraft carrier ⛵✈️",
+      "sections": [
+        {
+          "heading": "Morning",
+          "items": [
+            "8:30–10:30/11:00 AM — La Jolla sea-cave kayaking; use the calmer morning slot",
+            "Allow time to change clothes and get lunch nearby"
+          ]
+        },
+        {
+          "heading": "Midday",
+          "items": [
+            "11:30 AM — Leave La Jolla for the Embarcadero",
+            "Aim to enter USS Midway around 12:30–1:00 PM"
+          ]
+        },
+        {
+          "heading": "Afternoon",
+          "items": [
+            "1:00–5:00 PM — USS Midway Museum; this remains in the itinerary",
+            "Torrey Pines and Balboa Park are intentionally removed so the day does not become a checklist sprint"
+          ]
+        },
+        {
+          "heading": "Evening",
+          "items": [
+            "Dinner in Little Italy or along the waterfront",
+            "Optional short Embarcadero walk, then rest before the longest desert day"
+          ]
+        }
+      ],
+      "stop": 7,
+      "base": "San Diego",
+      "coordinates": [
+        -117.162772,
+        32.7174202
+      ],
+      "tone": "coast",
+      "categories": [
+        "coast",
+        "culture",
+        "wildlife"
+      ],
+      "isDrivingDay": false,
+      "nights": 0,
+      "budgetPrice": null,
+      "platform": null,
+      "stayNote": "— Same hotel as previous night —\n(San Diego — Point Loma/Old Town, see Day 12)",
+      "lodgings": [],
+      "ticketNotes": "• La Jolla Sea Cave Kayak – Book\n• USS Midway Museum – Buy Tickets",
+      "resources": [
+        {
+          "label": "La Jolla Sea Cave Kayak – Book",
+          "url": "https://www.lajollakayak.com/tours/original-kayak-cave-tour",
+          "city": "San Diego — Full Day"
+        },
+        {
+          "label": "USS Midway Museum – Buy Tickets",
+          "url": "https://www.midway.org/visit/buy-tickets",
+          "city": "San Diego — Full Day"
+        }
+      ],
+      "map": null
+    },
+    {
+      "day": 14,
+      "date": "2026-12-23",
+      "city": "San Diego → Joshua Tree traverse → Yucca Valley",
+      "drive": "San Diego → Cholla Cactus Garden → Yucca Valley · 236 mi · 4 hr 20 min driving only; leave early",
+      "theme": "A purposeful desert traverse 🌵🚗",
+      "sections": [
+        {
+          "heading": "Before the day",
+          "items": [
+            "Buy/print the park pass and download the official NPS offline map",
+            "Fill the tank and pack breakfast, lunch, water and warm layers; services are limited"
+          ]
+        },
+        {
+          "heading": "Morning",
+          "items": [
+            "6:30 AM — Depart San Diego and drive directly toward Cholla Cactus Garden"
+          ]
+        },
+        {
+          "heading": "Midday",
+          "items": [
+            "Around 10:45–11:30 AM — Cholla Cactus Garden short loop",
+            "Picnic lunch, then continue west through Joshua Tree"
+          ]
+        },
+        {
+          "heading": "Afternoon",
+          "items": [
+            "Choose one main western stop: Hidden Valley OR Keys View if running behind",
+            "Aim for Keys View by roughly 4:10 PM only if roads, daylight and energy allow"
+          ]
+        },
+        {
+          "heading": "Evening",
+          "items": [
+            "Check into Yucca Valley for one night",
+            "Early dinner and pack for a 7:30 AM departure"
+          ]
+        }
+      ],
+      "stop": 8,
+      "base": "Joshua Tree / Yucca Valley",
+      "coordinates": [
+        -116.4139839,
+        34.1236205
+      ],
+      "tone": "desert",
+      "categories": [
+        "drive",
+        "park",
+        "desert"
+      ],
+      "isDrivingDay": true,
+      "nights": 1,
+      "budgetPrice": 89.7,
+      "platform": "Booking.com quote + 15% allowance",
+      "stayNote": "Super 8 by Wyndham Yucca Valley\n$78 displayed; $89.70 planning allowance\nDec 23–24 · Search / book →",
+      "lodgings": [
+        {
+          "tier": "Budget",
+          "name": "Super 8 by Wyndham Yucca Valley",
+          "detail": "$78 displayed; $89.70 planning allowance · Dec 23–24 · Search / book",
+          "url": "https://www.booking.com/searchresults.html?ss=Super+8+by+Wyndham+Yucca+Valley&checkin=2026-12-23&checkout=2026-12-24&group_adults=2&no_rooms=1&group_children=0"
+        },
+        {
+          "tier": "Comfort",
+          "name": "Americas Best Value Inn & Suites",
+          "detail": "$87 displayed; $100.05 planning allowance · Dec 23–24 · Search / book",
+          "url": "https://www.booking.com/searchresults.html?ss=Americas+Best+Value+Inn+Yucca+Valley&checkin=2026-12-23&checkout=2026-12-24&group_adults=2&no_rooms=1&group_children=0"
+        },
+        {
+          "tier": "Premium",
+          "name": "Field Station Joshua Tree",
+          "detail": "Flexible rate ≈ $171.67 incl. 12.2% city tax · Dec 23–24 · Book",
+          "url": "https://www.booking.com/hotel/us/field-station-joshua-tree.html?checkin=2026-12-23&checkout=2026-12-24&group_adults=2&no_rooms=1&group_children=0"
+        }
+      ],
+      "ticketNotes": "Joshua Tree conditions (NPS)",
+      "resources": [
+        {
+          "label": "Joshua Tree conditions (NPS)",
+          "url": "https://www.nps.gov/jotr/planyourvisit/conditions.htm",
+          "city": "San Diego → Joshua Tree traverse → Yucca Valley"
+        }
+      ],
+      "map": {
+        "route": "San Diego → Cholla Cactus Garden → Yucca Valley",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=San+Diego,+CA&destination=Yucca+Valley,+CA&waypoints=Cholla+Cactus+Garden,+Joshua+Tree+National+Park,+CA&travelmode=driving",
+        "note": "236 mi / 4 hr 20 min driving only; Cholla moved here"
+      }
+    },
+    {
+      "day": 15,
+      "date": "2026-12-24",
+      "city": "Yucca Valley → Furnace Creek",
+      "drive": "Yucca Valley → Furnace Creek · 256 mi · 4 hr 03 min baseline; allow 4.5–5 hrs",
+      "theme": "One direct transfer, then sunset inside Death Valley 🎄🏜️",
+      "sections": [
+        {
+          "heading": "Morning — Christmas Eve",
+          "items": [
+            "7:00 AM — Breakfast, full tank, extra water, food and downloaded offline maps",
+            "7:30 AM — Depart directly for Furnace Creek via CA-247 and CA-127",
+            "Do not detour back to Cholla or Palm Springs; that would add about 74 miles and 1 hr 50 min"
+          ]
+        },
+        {
+          "heading": "Midday",
+          "items": [
+            "Carry lunch and extra water; holiday services may close early",
+            "Keep the rental on paved roads only; skip dirt spurs such as Natural Bridge and Devil's Golf Course",
+            "Aim to reach Furnace Creek around noon to 1:00 PM"
+          ]
+        },
+        {
+          "heading": "Afternoon",
+          "items": [
+            "Visitor Center, check-in and a short nearby viewpoint",
+            "Zabriskie Point near sunset if energy and road conditions are good"
+          ]
+        },
+        {
+          "heading": "Evening",
+          "items": [
+            "Dinner at the resort area; reserve ahead for Christmas Eve",
+            "Sleep inside Death Valley, eliminating the late drive to Pahrump"
+          ]
+        }
+      ],
+      "stop": 9,
+      "base": "Death Valley / Furnace Creek",
+      "coordinates": [
+        -116.8628356,
+        36.43435
+      ],
+      "tone": "desert",
+      "categories": [
+        "drive",
+        "park",
+        "desert",
+        "christmas-eve"
+      ],
+      "isDrivingDay": true,
+      "nights": 1,
+      "budgetPrice": 380.79,
+      "platform": "Official Oasis quote",
+      "stayNote": "The Ranch at Death Valley — recommended\n$380.79 incl. quoted taxes and fees\nDec 24–25 · Official booking →",
+      "lodgings": [
+        {
+          "tier": "Budget",
+          "name": "The Ranch at Death Valley — recommended",
+          "detail": "$380.79 incl. quoted taxes and fees · Dec 24–25 · Official booking",
+          "url": "https://secure.oasisatdeathvalley.com/booking/lodging-search?destination=ALL&adults=2&children=0&dateFrom=12-24-2026&nights=1"
+        },
+        {
+          "tier": "Comfort",
+          "name": "The Inn at Death Valley",
+          "detail": "$671.99 incl. quoted taxes and fees · Dec 24–25 · Official booking",
+          "url": "https://secure.oasisatdeathvalley.com/booking/lodging-search?destination=ALL&adults=2&children=0&dateFrom=12-24-2026&nights=1"
+        },
+        {
+          "tier": "Premium",
+          "name": "The Inn — suites / casitas",
+          "detail": "Check live inventory and final total · Dec 24–25 · Official booking",
+          "url": "https://secure.oasisatdeathvalley.com/booking/lodging-search?destination=ALL&adults=2&children=0&dateFrom=12-24-2026&nights=1"
+        }
+      ],
+      "ticketNotes": "• Death Valley road status (NPS)\n• Death Valley safety (NPS)",
+      "resources": [
+        {
+          "label": "Death Valley road status (NPS)",
+          "url": "https://www.nps.gov/deva/planyourvisit/conditions.htm",
+          "city": "Yucca Valley → Furnace Creek"
+        },
+        {
+          "label": "Death Valley safety (NPS)",
+          "url": "https://www.nps.gov/deva/planyourvisit/safety.htm",
+          "city": "Yucca Valley → Furnace Creek"
+        }
+      ],
+      "map": {
+        "route": "Yucca Valley → Furnace Creek",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Yucca+Valley,+CA&destination=Furnace+Creek,+CA&travelmode=driving",
+        "note": "256 mi / 4 hr 03 min; direct transfer removes a 74-mile detour"
+      }
+    },
+    {
+      "day": 16,
+      "date": "2026-12-25",
+      "city": "Death Valley → Las Vegas",
+      "drive": "Furnace Creek → Badwater Basin → Artist's Palette → Zabriskie Point → Las Vegas Strip · 156 mi · 3 hr 05 min driving only",
+      "theme": "Death Valley highlights, then Christmas lights in Las Vegas 🏜️✨",
+      "sections": [
+        {
+          "heading": "Morning — Christmas Day",
+          "items": [
+            "Carry breakfast/lunch, a backup meal and extra water; do not rely on every park service being open",
+            "8:00 AM — Badwater Basin",
+            "9:45 AM — Artist's Drive and Artist's Palette"
+          ]
+        },
+        {
+          "heading": "Midday",
+          "items": [
+            "Return toward Furnace Creek; use carried supplies or a confirmed-open resort outlet",
+            "Call the Oasis about one week beforehand to confirm Christmas dining hours",
+            "Zabriskie Point if you did not visit at sunset yesterday"
+          ]
+        },
+        {
+          "heading": "Afternoon",
+          "items": [
+            "Around 1:30–2:00 PM — Depart for Las Vegas",
+            "The mapped route is 156 mi / about 3 hr 05 min before sightseeing time"
+          ]
+        },
+        {
+          "heading": "Evening",
+          "items": [
+            "Check into the Strip hotel and keep Christmas dinner reserved",
+            "8:15 or 8:30 PM — Bellagio fountains after dinner; allow 20–30 minutes and check for weather or schedule changes",
+            "Everything after the fountains remains optional"
+          ]
+        }
+      ],
+      "stop": 10,
+      "base": "Las Vegas",
+      "coordinates": [
+        -115.1484131,
+        36.1674263
+      ],
+      "tone": "city",
+      "categories": [
+        "drive",
+        "park",
+        "desert",
+        "christmas"
+      ],
+      "isDrivingDay": true,
+      "nights": 1,
+      "budgetPrice": 106.58,
+      "platform": "Booking.com est.",
+      "stayNote": "Luxor — south Strip\n$94 incl. resort fee; ~$106.58 est. with tax\nDec 25–26 · Book →",
+      "lodgings": [
+        {
+          "tier": "Budget",
+          "name": "Luxor — south Strip",
+          "detail": "$94 incl. resort fee; ~$106.58 est. with tax · Dec 25–26 · Book",
+          "url": "https://www.booking.com/hotel/us/luxor.html?checkin=2026-12-25&checkout=2026-12-26&group_adults=2&no_rooms=1&group_children=0"
+        },
+        {
+          "tier": "Comfort",
+          "name": "Planet Hollywood — central Strip",
+          "detail": "$154 incl. resort fee; ~$174.61 est. with tax · Dec 25–26 · Book",
+          "url": "https://www.booking.com/hotel/us/planet-hollywood.html?checkin=2026-12-25&checkout=2026-12-26&group_adults=2&no_rooms=1&group_children=0"
+        },
+        {
+          "tier": "Premium",
+          "name": "Caesars Palace — premium",
+          "detail": "$274 incl. resort fee; ~$310.66 est. with tax · Dec 25–26 · Book",
+          "url": "https://www.booking.com/hotel/us/harrah-s-caesars-palace.html?checkin=2026-12-25&checkout=2026-12-26&group_adults=2&no_rooms=1&group_children=0"
+        }
+      ],
+      "ticketNotes": "• Bellagio fountains — official schedule",
+      "resources": [
+        {
+          "label": "Bellagio fountains schedule",
+          "url": "https://bellagio.mgmresorts.com/en/entertainment/fountains-of-bellagio.html",
+          "city": "Death Valley → Las Vegas"
+        }
+      ],
+      "map": {
+        "route": "Furnace Creek → Badwater → Artist's Palette → Zabriskie Point → Las Vegas Strip",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Furnace+Creek,+CA&destination=Las+Vegas+Strip,+NV&waypoints=Badwater+Basin,+Badwater+Road,+Death+Valley,+CA+92328%7CArtists+Palette,+Artists+Drive,+Death+Valley,+CA+92328%7CZabriskie+Point,+CA&travelmode=driving",
+        "note": "156 mi / 3 hr 05 min driving only; dunes omitted to keep the day lower-risk"
+      }
+    },
+    {
+      "day": 17,
+      "date": "2026-12-26",
+      "city": "Las Vegas → Fly Home",
+      "drive": "Las Vegas Strip → Harry Reid International Airport (LAS) · 2.6 mi · ~10 min driving; allow 30–45 min to rental return",
+      "theme": "Early budget flight home ✈️",
+      "sections": [
+        {
+          "heading": "Recommended budget path",
+          "items": [
+            "United LAS 7:00 AM → ORD 12:46 PM, nonstop: $281 total for 2 on Booking.com or $285.57 on Expedia in Basic Economy",
+            "For a standard carry-on, seat choice and changes, Expedia showed regular United Economy at $387.27 total before checked bags",
+            "Southwest LAS 8:10 AM → MDW 1:35 PM is the simpler carry-on/MDW alternative at about $377–$381 total for 2"
+          ]
+        },
+        {
+          "heading": "Airport sequence if booking the 7:00 AM United flight",
+          "items": [
+            "About 3:45 AM — Leave the Strip hotel after checking out the night before",
+            "Fuel and return the SUV; allow 30–45 minutes for the rental return and shuttle",
+            "Reach the terminal with the airline's recommended domestic check-in buffer"
+          ]
+        },
+        {
+          "heading": "Midday",
+          "items": [
+            "Arrive Chicago around 12:46 PM local time"
+          ]
+        },
+        {
+          "heading": "Important",
+          "items": [
+            "The cheapest return fares remove the previous “sleep-in” morning; choose a later, higher fare if a relaxed final morning matters more than savings",
+            "Reconfirm price, baggage, airport and schedule immediately before booking"
+          ]
+        }
+      ],
+      "stop": 10,
+      "base": "Las Vegas",
+      "coordinates": [
+        -115.1484131,
+        36.1674263
+      ],
+      "tone": "departure",
+      "categories": [
+        "departure",
+        "flight"
+      ],
+      "isDrivingDay": true,
+      "nights": 0,
+      "budgetPrice": null,
+      "platform": null,
+      "stayNote": "— (flying home)",
+      "lodgings": [],
+      "ticketNotes": "• Flight Options sheet\n• Booking.com and Expedia live search links",
+      "resources": [],
+      "map": {
+        "route": "Las Vegas Strip → Harry Reid International Airport",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Las+Vegas+Strip,+NV&destination=Harry+Reid+International+Airport,+NV&travelmode=driving",
+        "note": "2.6 mi / ~10 min; allow 30–45 min to rental return"
+      }
+    }
+  ],
+  "budget": [
+    {
+      "category": "Flights (open-jaw SFO in / LAS out)",
+      "low": 710,
+      "high": 950,
+      "notes": "Live base-fare floor is about $518–$522 for 2 across both one-way legs. Allowance includes realistic baggage/carry-on/seat tradeoffs; see Flight Options. Prices checked Jul 11, 2026."
+    },
+    {
+      "category": "Rental car (14 days + 1-way fee)",
+      "low": 2700,
+      "high": 3800,
+      "notes": "Airport-only SFO→LAS SUV allowance. Avis exact-date live totals are $2,768.94–$2,934.22; the higher ceiling allows for a written AWD class. Excludes optional protection, fuel and tolls. See Rental Options."
+    },
+    {
+      "category": "Gas",
+      "low": 350,
+      "high": 525,
+      "notes": "Fuel up before Big Sur, Joshua Tree and Death Valley — plan ~1,650–1,800 mi including local driving"
+    },
+    {
+      "category": "Lodging — 16 nights, 2 people",
+      "low": 2060.94,
+      "high": 2679.222,
+      "notes": "Low = practical budget picks, including the Ranch inside Death Valley; dated quotes checked Jul 11, 2026. Parking remains TBD."
+    },
+    {
+      "category": "Food",
+      "low": 1300,
+      "high": 2100,
+      "notes": "Groceries for breakfast/picnics + sit-down dinners"
+    },
+    {
+      "category": "Activities (kayak, whales, Hearst, USS Midway, Warner Bros.)",
+      "low": 625,
+      "high": 900,
+      "notes": "Adds two Warner Bros. Studio Tour tickets at the current $79 adult price and the cable-car ride; Route 66 sign, Bellagio fountains and tidepools are free."
+    }
+  ],
+  "rental": {
+    "bestFit": "Explicitly labeled gasoline Midsize SUV AWD — Nissan Rogue AWD or similar",
+    "guidance": "Start with Enterprise, National or Alamo. Hertz is the strongest 24-hour backup; Avis provides the exact-date price benchmark.",
+    "vendors": [
+      {
+        "vendor": "Enterprise",
+        "reliability": "J.D. Power 2025 #1 · ACSI 76",
+        "pickup": "On-airport RCC · 6 AM–12:30 AM",
+        "costco": "Yes",
+        "bestUse": "Best overall service-first choice",
+        "priceStatus": "Re-quote direct + Costco",
+        "drop": "Yes · airport center",
+        "evidence": "J.D. Power"
+      },
+      {
+        "vendor": "National",
+        "reliability": "J.D. Power 2025 #2 · ACSI 76",
+        "pickup": "On-airport RCC · 6 AM–12:30 AM",
+        "costco": "No",
+        "bestUse": "Fast pickup via Emerald Aisle eligibility",
+        "priceStatus": "Re-quote direct",
+        "drop": "Yes · airport center",
+        "evidence": "J.D. Power"
+      },
+      {
+        "vendor": "Alamo",
+        "reliability": "ACSI 79 · above J.D. Power average",
+        "pickup": "On-airport RCC · 6 AM–12:30 AM",
+        "costco": "Yes",
+        "bestUse": "Value + Skip the Counter eligibility",
+        "priceStatus": "Re-quote direct + Costco",
+        "drop": "Yes · airport center",
+        "evidence": "ACSI"
+      },
+      {
+        "vendor": "Hertz",
+        "reliability": "J.D. Power above average · ACSI 77",
+        "pickup": "On-airport RCC · open 24 hours",
+        "costco": "No",
+        "bestUse": "Best late-arrival backup with AWD classes",
+        "priceStatus": "Re-quote direct",
+        "drop": "Yes · airport center",
+        "evidence": "ACSI"
+      },
+      {
+        "vendor": "Avis",
+        "reliability": "ACSI 79; J.D. Power result is mixed",
+        "pickup": "On-airport RCC · open 24 hours",
+        "costco": "Yes",
+        "bestUse": "24-hour backup; exact-date price benchmark",
+        "priceStatus": "$2,768.94–$2,934.22 live",
+        "drop": "Yes · airport center",
+        "evidence": "ACSI"
+      }
+    ],
+    "vehicles": [
+      {
+        "vendor": "Enterprise",
+        "rank": 1,
+        "vehicle": "Nissan Rogue AWD or similar · Midsize SUV AWD",
+        "awd": "High — explicit AWD class",
+        "cost": "$2,700–$3,100",
+        "costBasis": "Planning band; re-quote",
+        "take": "Best overall fit: efficient, easy to park, enough luggage room",
+        "url": "https://www.enterprise.com"
+      },
+      {
+        "vendor": "Enterprise",
+        "rank": 2,
+        "vehicle": "Chevrolet Equinox AWD or similar · Standard SUV AWD",
+        "awd": "High — explicit AWD class",
+        "cost": "$2,900–$3,400",
+        "costBasis": "Planning band; re-quote",
+        "take": "Best comfort/space balance",
+        "url": "https://www.enterprise.com"
+      },
+      {
+        "vendor": "Enterprise",
+        "rank": 3,
+        "vehicle": "Mazda CX-90 or similar · Standard Crossover AWD",
+        "awd": "High — explicit AWD class",
+        "cost": "$3,100–$3,800",
+        "costBasis": "Planning band; re-quote",
+        "take": "Roomiest; more vehicle than two people need",
+        "url": "https://www.enterprise.com"
+      },
+      {
+        "vendor": "National",
+        "rank": 1,
+        "vehicle": "Nissan Rogue AWD or similar · Midsize SUV AWD",
+        "awd": "High — explicit AWD class",
+        "cost": "$2,700–$3,200",
+        "costBasis": "Planning band; re-quote",
+        "take": "Excellent if Emerald Aisle speed matters",
+        "url": "https://www.nationalcar.com"
+      },
+      {
+        "vendor": "National",
+        "rank": 2,
+        "vehicle": "Chevrolet Equinox AWD or similar · Standard SUV AWD",
+        "awd": "High — explicit AWD class",
+        "cost": "$2,900–$3,500",
+        "costBasis": "Planning band; re-quote",
+        "take": "Comfortable long-distance sweet spot",
+        "url": "https://www.nationalcar.com"
+      },
+      {
+        "vendor": "National",
+        "rank": 3,
+        "vehicle": "Mazda CX-90 or similar · Standard Crossover AWD",
+        "awd": "High — explicit AWD class",
+        "cost": "$3,100–$3,900",
+        "costBasis": "Planning band; re-quote",
+        "take": "Choose only if the price is close to Standard AWD",
+        "url": "https://www.nationalcar.com"
+      },
+      {
+        "vendor": "Alamo",
+        "rank": 1,
+        "vehicle": "Nissan Rogue AWD or similar · Midsize SUV AWD",
+        "awd": "High — explicit AWD class",
+        "cost": "$2,600–$3,100",
+        "costBasis": "Planning band; re-quote",
+        "take": "Best value candidate; also compare through Costco",
+        "url": "https://www.alamo.com"
+      },
+      {
+        "vendor": "Alamo",
+        "rank": 2,
+        "vehicle": "Chevrolet Equinox AWD or similar · Standard SUV AWD",
+        "awd": "High — explicit AWD class",
+        "cost": "$2,800–$3,400",
+        "costBasis": "Planning band; re-quote",
+        "take": "Strong value/comfort alternative",
+        "url": "https://www.alamo.com"
+      },
+      {
+        "vendor": "Alamo",
+        "rank": 3,
+        "vehicle": "Mazda CX-90 or similar · Standard Crossover AWD",
+        "awd": "High — explicit AWD class",
+        "cost": "$3,000–$3,800",
+        "costBasis": "Planning band; re-quote",
+        "take": "Good only if the upgrade is inexpensive",
+        "url": "https://www.alamo.com"
+      },
+      {
+        "vendor": "Hertz",
+        "rank": 1,
+        "vehicle": "Jeep Compass or similar · Midsize SUV AWD (IFDR)",
+        "awd": "High when IFDR is shown",
+        "cost": "$2,700–$3,200",
+        "costBasis": "Planning band; re-quote",
+        "take": "Most efficient Hertz AWD choice",
+        "url": "https://www.hertz.com"
+      },
+      {
+        "vendor": "Hertz",
+        "rank": 2,
+        "vehicle": "Ford Edge or similar · Standard SUV AWD (SFDR)",
+        "awd": "High when SFDR is shown",
+        "cost": "$2,900–$3,500",
+        "costBasis": "Planning band; re-quote",
+        "take": "Best Hertz road-trip choice",
+        "url": "https://www.hertz.com"
+      },
+      {
+        "vendor": "Hertz",
+        "rank": 3,
+        "vehicle": "Hyundai Santa Fe or similar · 7-passenger AWD (FRDR)",
+        "awd": "High when FRDR is shown",
+        "cost": "$3,100–$3,800",
+        "costBasis": "Planning band; re-quote",
+        "take": "Comfortable but larger than necessary",
+        "url": "https://www.hertz.com"
+      },
+      {
+        "vendor": "Avis",
+        "rank": 1,
+        "vehicle": "Mazda CX-50 or similar · Intermediate SUV",
+        "awd": "Conditional — inspect assigned SUV",
+        "cost": "$2,768.94",
+        "costBasis": "Live exact-route total",
+        "take": "Lowest suitable live quote; accept only if assigned vehicle is AWD",
+        "url": "https://www.avis.com"
+      },
+      {
+        "vendor": "Avis",
+        "rank": 2,
+        "vehicle": "Chevrolet Equinox or similar · Standard SUV",
+        "awd": "Conditional — inspect assigned SUV",
+        "cost": "$2,934.22",
+        "costBasis": "Live exact-route total",
+        "take": "More comfort; $165 more than the CX-50 class",
+        "url": "https://www.avis.com"
+      },
+      {
+        "vendor": "Avis",
+        "rank": 3,
+        "vehicle": "Ford Explorer or similar · Standard Elite SUV",
+        "awd": "Conditional — inspect assigned SUV",
+        "cost": "$2,918.88",
+        "costBasis": "Live exact-route total",
+        "take": "Seven seats are unnecessary; consider only if AWD is confirmed",
+        "url": "https://www.avis.com"
+      }
+    ],
+    "checklist": [
+      "Reservation must say AWD/4WD in the class name or class code; a generic SUV reservation is not enough.",
+      "At SFO, inspect the assigned vehicle for AWD markings and M+S-rated tires on all four wheels before leaving.",
+      "Get written confirmation about traction-device permission and vehicle clearance. Yosemite may require carrying chains even in AWD.",
+      "Confirm unlimited mileage, one-way fee, taxes/airport fees, cancellation terms, and the final LAS return address.",
+      "Photograph every panel, wheel, windshield, fuel level, and odometer at pickup and again at return.",
+      "If chain controls are active and the rental agreement does not permit devices, park before the control point and use YARTS."
+    ]
+  },
+  "flights": {
+    "pick": "United ORD 6:00 AM → SFO 8:44 AM, then United LAS 7:00 AM → ORD 12:46 PM",
+    "realisticTotal": "$710–$950 for two after baggage, seats and fare flexibility",
+    "options": [
+      {
+        "leg": "Dec 10 · CHI→SFO",
+        "platform": "Booking.com",
+        "rank": 1,
+        "fare": "Southwest · Basic",
+        "route": "MDW→SFO",
+        "schedule": "10:00 AM–12:50 PM",
+        "stops": "Nonstop",
+        "duration": "4h 50m",
+        "total": 237,
+        "baggage": "Personal item + carry-on shown; verify checked-bag price and final rules",
+        "source": "Link 1 below"
+      },
+      {
+        "leg": "Dec 10 · CHI→SFO",
+        "platform": "Booking.com",
+        "rank": 2,
+        "fare": "American · Basic Economy",
+        "route": "ORD→SFO",
+        "schedule": "1:26 PM–4:22 PM",
+        "stops": "Nonstop",
+        "duration": "4h 56m",
+        "total": 238,
+        "baggage": "Personal item + carry-on shown; checked bag and seat extra; too late for arrival-day sunset",
+        "source": "Link 1 below"
+      },
+      {
+        "leg": "Dec 10 · CHI→SFO",
+        "platform": "Booking.com",
+        "rank": 3,
+        "fare": "United · Basic Economy",
+        "route": "ORD→SFO",
+        "schedule": "6:00 AM–8:44 AM",
+        "stops": "Nonstop",
+        "duration": "4h 44m",
+        "total": 237,
+        "baggage": "Personal item only shown; carry-on/checked bag may cost extra; best itinerary fit",
+        "source": "Link 1 below"
+      },
+      {
+        "leg": "Dec 10 · CHI→SFO",
+        "platform": "Expedia",
+        "rank": 1,
+        "fare": "Southwest · Basic",
+        "route": "MDW→SFO",
+        "schedule": "10:00 AM–12:50 PM",
+        "stops": "Nonstop",
+        "duration": "4h 50m",
+        "total": 236.8,
+        "baggage": "Carry-on included; seat extra; first checked bag $45 each; no changes",
+        "source": "Link 2 below"
+      },
+      {
+        "leg": "Dec 10 · CHI→SFO",
+        "platform": "Expedia",
+        "rank": 2,
+        "fare": "American · Basic Economy",
+        "route": "ORD→SFO",
+        "schedule": "10:24 AM–1:22 PM",
+        "stops": "Nonstop",
+        "duration": "4h 58m",
+        "total": 236.8,
+        "baggage": "Carry-on included; seat extra; first checked bag $55 each; no changes",
+        "source": "Link 2 below"
+      },
+      {
+        "leg": "Dec 10 · CHI→SFO",
+        "platform": "Expedia",
+        "rank": 3,
+        "fare": "United · Basic Economy",
+        "route": "ORD→SFO",
+        "schedule": "11:51 AM–2:41 PM",
+        "stops": "Nonstop",
+        "duration": "4h 50m",
+        "total": 236.8,
+        "baggage": "Personal item only; no standard carry-on; first checked bag $50 each; no changes",
+        "source": "Link 2 below"
+      },
+      {
+        "leg": "Dec 26 · LAS→CHI",
+        "platform": "Booking.com",
+        "rank": 1,
+        "fare": "United · Basic Economy",
+        "route": "LAS→ORD",
+        "schedule": "7:00 AM–12:46 PM",
+        "stops": "Nonstop",
+        "duration": "3h 46m",
+        "total": 281,
+        "baggage": "Personal item only shown; verify carry-on/check-bag fees; cheapest sensible return",
+        "source": "Link 3 below"
+      },
+      {
+        "leg": "Dec 26 · LAS→CHI",
+        "platform": "Booking.com",
+        "rank": 2,
+        "fare": "Southwest · Basic",
+        "route": "LAS→MDW",
+        "schedule": "8:10 AM–1:35 PM",
+        "stops": "Nonstop",
+        "duration": "3h 25m",
+        "total": 377,
+        "baggage": "Personal item + carry-on shown; verify checked-bag price; best MDW alternative",
+        "source": "Link 3 below"
+      },
+      {
+        "leg": "Dec 26 · LAS→CHI",
+        "platform": "Booking.com",
+        "rank": 3,
+        "fare": "American · Basic Economy",
+        "route": "LAS→ORD",
+        "schedule": "7:04 AM–12:56 PM",
+        "stops": "Nonstop",
+        "duration": "3h 52m",
+        "total": 458,
+        "baggage": "Personal item + carry-on shown; checked bag and seat extra",
+        "source": "Link 3 below"
+      },
+      {
+        "leg": "Dec 26 · LAS→CHI",
+        "platform": "Expedia",
+        "rank": 1,
+        "fare": "United · Basic Economy",
+        "route": "LAS→ORD",
+        "schedule": "7:00 AM–12:46 PM",
+        "stops": "Nonstop",
+        "duration": "3h 46m",
+        "total": 285.57,
+        "baggage": "Personal item only; no standard carry-on; first checked bag $50 each; no changes",
+        "source": "Link 4 below"
+      },
+      {
+        "leg": "Dec 26 · LAS→CHI",
+        "platform": "Expedia",
+        "rank": 2,
+        "fare": "United · Basic Economy",
+        "route": "LAS→ORD",
+        "schedule": "8:50 AM–2:38 PM",
+        "stops": "Nonstop",
+        "duration": "3h 48m",
+        "total": 305.26,
+        "baggage": "Personal item only; no standard carry-on; first checked bag $50 each; no changes",
+        "source": "Link 4 below"
+      },
+      {
+        "leg": "Dec 26 · LAS→CHI",
+        "platform": "Expedia",
+        "rank": 3,
+        "fare": "Southwest · Basic",
+        "route": "LAS→MDW",
+        "schedule": "8:10 AM–1:35 PM",
+        "stops": "Nonstop",
+        "duration": "3h 25m",
+        "total": 381.32,
+        "baggage": "Carry-on included; seat extra; first checked bag $45 each; no changes",
+        "source": "Link 4 below"
+      }
+    ],
+    "links": [
+      {
+        "label": "1 · Booking.com outbound",
+        "url": "https://flights.booking.com/flights/CHI-SFO/?type=ONEWAY&adults=2&cabinClass=ECONOMY&sort=BEST&depart=2026-12-10&from=CHI&to=SFO&locale=en-us"
+      },
+      {
+        "label": "2 · Expedia outbound",
+        "url": "https://www.expedia.com/Flights-Search?flight-type=on&mode=search&trip=oneway&leg1=from:Chicago,%20IL,%20United%20States%20of%20America%20(CHI-All%20Airports),to:San%20Francisco,%20CA,%20United%20States%20of%20America%20(SFO-San%20Francisco%20Intl.),departure:12/10/2026TANYT,fromType:METROCODE,toType:AIRPORT&options=cabinclass:economy&fromDate=12/10/2026&d1=2026-12-10&passengers=adults:2,infantinlap:N"
+      },
+      {
+        "label": "3 · Booking.com return",
+        "url": "https://flights.booking.com/flights/LAS-CHI/?type=ONEWAY&adults=2&cabinClass=ECONOMY&sort=BEST&depart=2026-12-26&from=LAS&to=CHI&locale=en-us"
+      },
+      {
+        "label": "4 · Expedia return",
+        "url": "https://www.expedia.com/Flights-Search?flight-type=on&mode=search&trip=oneway&leg1=from%3ALas+Vegas%2C+NV%2C+United+States+of+America+%28LAS-Harry+Reid+Intl.%29%2Cto%3AChicago%2C+IL%2C+United+States+of+America+%28CHI-All+Airports%29%2Cdeparture%3A12%2F26%2F2026TANYT%2CfromType%3AAIRPORT%2CtoType%3AMETROCODE&options=cabinclass%3Aeconomy&fromDate=12%2F26%2F2026&d1=2026-12-26&passengers=adults%3A2%2Cinfantinlap%3AN"
+      }
+    ]
+  },
+  "planningGates": [
+    {
+      "area": "Big Sur / Highway 1",
+      "suggestion": "Treat the coast as the day, not a transfer packed with stops.",
+      "decision": "KEEP + LIMIT",
+      "guardrail": "Depart about 8 AM, cap at three meaningful stops, reach Cambria before sunset.",
+      "timing": "QuickMap 24h before + morning-of",
+      "url": "https://quickmap.dot.ca.gov/"
+    },
+    {
+      "area": "McWay Falls",
+      "suggestion": "Closures can turn a famous stop into wasted time and unsafe roadside behavior.",
+      "decision": "CORRECTED",
+      "guardrail": "Trail/beach removed. Legal roadside glimpse only if safe; otherwise skip.",
+      "timing": "Official status before departure",
+      "url": "https://www.parks.ca.gov/?page_id=578"
+    },
+    {
+      "area": "Yosemite in December",
+      "suggestion": "Use a lower-elevation base/approach and make chain control a hard gate.",
+      "decision": "KEEP EL PORTAL",
+      "guardrail": "Hwy 140 approach; confirm AWD, tire size and written chain/cable compatibility at pickup. If the rental cannot legally meet controls, park in El Portal and use YARTS.",
+      "timing": "48h before + SFO pickup + morning-of; save YARTS schedule",
+      "url": "https://www.nps.gov/yose/planyourvisit/tirechains.htm"
+    },
+    {
+      "area": "Cabrillo tidepools",
+      "suggestion": "Schedule the coast around the low tide, not the other way around.",
+      "decision": "KEEP",
+      "guardrail": "12:15–12:30 arrival remains well aligned to the 1:33 PM low tide.",
+      "timing": "48h before + morning-of",
+      "url": "https://home.nps.gov/cabr/learn/nature/december-tide-table.htm"
+    },
+    {
+      "area": "Joshua Tree",
+      "suggestion": "Traverse once; carry essentials because services and connectivity are limited.",
+      "decision": "KEEP",
+      "guardrail": "Pass bought/printed, offline map, full tank, food and water added to Day 14.",
+      "timing": "Before leaving San Diego",
+      "url": "https://www.nps.gov/jotr/planyourvisit/first-time-visitors.htm"
+    },
+    {
+      "area": "Death Valley",
+      "suggestion": "An inside-park night improves sunrise/sunset access and removes a late desert drive.",
+      "decision": "KEEP",
+      "guardrail": "Furnace Creek night retained; paved roads only; offline map, water and meal backup added.",
+      "timing": "Road status + resort hours before entry",
+      "url": "https://www.nps.gov/deva/planyourvisit/hours.htm"
+    },
+    {
+      "area": "Hearst Castle",
+      "suggestion": "The first morning tour protects the afternoon southbound drive.",
+      "decision": "KEEP",
+      "guardrail": "Current Day 8 plan already arrives at least 20 minutes early.",
+      "timing": "Reserve well in advance",
+      "url": "https://hearstcastle.org/tour-hearst-castle/daily-tours/"
+    },
+    {
+      "area": "Overall pacing",
+      "suggestion": "Use 2-night hubs and 1-night transit towns; avoid adding another destination.",
+      "decision": "KEEP ROUTE",
+      "guardrail": "No lodging consolidation or destination removal recommended.",
+      "timing": "Reassess only if a road gate fails",
+      "url": "https://roadtrippingcalifornia.com/2-week-california-road-trip-itinerary/"
+    },
+    {
+      "area": "California / American culture",
+      "suggestion": "Prefer substitutions and on-route moments; do not add another city.",
+      "decision": "ADDED",
+      "guardrail": "Warner Bros. replaces Getty. Route 66, Powell–Hyde and Bellagio fit into existing days.",
+      "timing": "Reserve the studio tour; verify hours.",
+      "url": "https://www.wbstudiotour.com/tour/studio/"
+    }
+  ]
+}
