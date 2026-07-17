@@ -2,6 +2,10 @@
 
 All three versions use the same final itinerary, booking details, flights, SUV shortlist, lodging choices, route links, trip checks, budget, and downloadable Excel workbook. Only the visual experience changes.
 
+## Hosted Version
+
+The Cinematic Editorial version is published at <https://kaushik27.github.io/california-itinerary-plans/>. Pushes to `main` that change `01-cinematic-editorial` automatically rebuild and deploy it through GitHub Pages.
+
 ## 01 — Cinematic Editorial
 
 - Full-screen California panorama and travel-story presentation

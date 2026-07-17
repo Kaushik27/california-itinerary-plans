@@ -79,6 +79,11 @@ const filters: Array<{ key: FilterKey; label: string }> = [
 ];
 
 const routeImageDays = new Set([3, 5, 7, 8, 10, 12, 14, 15, 16, 17]);
+const siteBasePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
+function siteAsset(path: `/${string}`): string {
+  return `${siteBasePath}${path}`;
+}
 
 function formatDate(date: string) {
   return dateFormatter.format(new Date(`${date}T12:00:00`));
@@ -376,13 +381,13 @@ export default function ItineraryExperience() {
             {theme === "light" ? <Moon size={18} /> : <Sun size={18} />}
           </button>
           <button className="icon-button" type="button" onClick={shareTrip} aria-label="Share this trip"><Share2 size={18} /></button>
-          <a className="excel-plan" href="/california-master-itinerary.xlsx" download><Download size={17} /> Excel plan</a>
+          <a className="excel-plan" href={siteAsset("/california-master-itinerary.xlsx")} download><Download size={17} /> Excel plan</a>
         </div>
       </header>
 
       <main id="main-content">
         <section className="hero" id="top">
-          <img className="hero-canvas" src="/cinematic-hero.png" alt="California road trip from the Golden Gate through Yosemite, Highway 1 and the desert to Las Vegas" />
+          <img className="hero-canvas" src={siteAsset("/cinematic-hero.png")} alt="California road trip from the Golden Gate through Yosemite, Highway 1 and the desert to Las Vegas" />
           <div className="hero-scrim" aria-hidden="true" />
           <div className="hero-copy">
             <h1>From the<br />Golden Gate<br />to the <em>Las Vegas lights</em></h1>
@@ -418,12 +423,12 @@ export default function ItineraryExperience() {
             <SectionHeading eyebrow="The route story" title="California, one unforgettable line." copy="A 17-day anniversary road trip from the Golden Gate to the Las Vegas lights—through national parks, coastal highways and the places that stay with you." />
           </div>
           <div className="story-layout">
-            <div className="story-map-card">
+            <div className="story-map-card" style={{ backgroundImage: `url("${siteAsset("/light-route-map.png")}")` }}>
               <RouteMap activeDay={activeDay} onSelect={selectDay} />
               <div className="map-legend"><span><i className="legend-route" /> Full route</span><span><i className="legend-progress" /> Story progress</span><small>Map: OpenStreetMap / CARTO · route sequence, not turn-by-turn navigation</small></div>
             </div>
             <article className={`active-story tone-${active.tone}`} aria-live="polite">
-              <img className="story-photo" src="/cinematic-hero.png" alt="California coast, Yosemite and desert road-trip landscape" />
+              <img className="story-photo" src={siteAsset("/cinematic-hero.png")} alt="California coast, Yosemite and desert road-trip landscape" />
               <div className="story-photo-scrim" aria-hidden="true" />
               <div className="story-content">
                 <div className="story-toolbar">
@@ -479,7 +484,7 @@ export default function ItineraryExperience() {
                     <ChevronDown className="expand-icon" size={21} />
                   </button>
                   <div className="day-body" id={`day-body-${day.day}`}>
-                    {routeImageDays.has(day.day) ? <figure className="route-shot"><img src={`/routes/day-${day.day}.jpg`} alt={`Google Maps route preview for day ${day.day}`} width="300" height="188" /><figcaption>{day.map?.note ?? "Workbook route snapshot"}</figcaption></figure> : null}
+                    {routeImageDays.has(day.day) ? <figure className="route-shot"><img src={siteAsset(`/routes/day-${day.day}.jpg`)} alt={`Google Maps route preview for day ${day.day}`} width="300" height="188" /><figcaption>{day.map?.note ?? "Workbook route snapshot"}</figcaption></figure> : null}
                     <div className="plan-grid">
                       {day.sections.map((section) => <div className="plan-period" key={`${day.day}-${section.heading}`}><h4>{section.heading}</h4><ul>{section.items.map((item) => <li key={item}>{item}</li>)}</ul></div>)}
                     </div>
@@ -583,14 +588,14 @@ export default function ItineraryExperience() {
 
         <section className="poster-section section-pad" aria-label="Printable trip poster">
           <div><p className="eyebrow">PRINTABLE OVERVIEW</p><h2>The whole journey on one page.</h2><p>The route poster from the Excel Overview sheet is included for sharing at home or printing before departure.</p><button className="button primary" type="button" onClick={() => window.print()}><Printer size={18} /> Print the trip</button></div>
-          <img src="/overview-poster.png" alt="Static one-page California road-trip overview" width="1400" height="1190" />
+          <img src={siteAsset("/overview-poster.png")} alt="Static one-page California road-trip overview" width="1400" height="1190" />
         </section>
       </main>
 
       <footer>
         <div className="footer-brand"><span className="brand-mark"><Compass size={19} /></span><div><b>California Anniversary Road Trip</b><small>{tripData.meta.route}</small></div></div>
         <p>{tripData.meta.dataNote} Confirm live prices, conditions, baggage and cancellation terms before paying.</p>
-        <div><a href="#top">Back to top</a><a href="/california-master-itinerary.xlsx" download>Download Excel</a></div>
+        <div><a href="#top">Back to top</a><a href={siteAsset("/california-master-itinerary.xlsx")} download>Download Excel</a></div>
       </footer>
 
       <div className="mobile-day-nav"><button type="button" onClick={() => setActiveDay(Math.max(1, activeDay - 1))} disabled={activeDay === 1} aria-label="Previous day"><ChevronLeft /></button><button type="button" onClick={() => selectDay(activeDay, true)}><span>Day {activeDay}</span><b>{active.base}</b></button><button type="button" onClick={() => setActiveDay(Math.min(17, activeDay + 1))} disabled={activeDay === 17} aria-label="Next day"><ChevronRight /></button></div>

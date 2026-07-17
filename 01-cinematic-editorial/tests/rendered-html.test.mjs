@@ -2,6 +2,8 @@ import assert from "node:assert/strict";
 import { access, readFile, readdir } from "node:fs/promises";
 import test from "node:test";
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 async function render() {
   const workerUrl = new URL("../dist/server/index.js", import.meta.url);
   workerUrl.searchParams.set("test", `${process.pid}-${Date.now()}`);
@@ -27,6 +29,15 @@ test("server-renders the finished trip experience", async () => {
   assert.match(html, /california-master-itinerary\.xlsx/i);
   assert.match(html, /og\.png/i);
   assert.doesNotMatch(html, /codex-preview|Your site is taking shape|react-loading-skeleton/i);
+});
+
+test("creates a GitHub Pages-compatible static export", async () => {
+  const html = await readFile(new URL("../dist/client/index.html", import.meta.url), "utf8");
+
+  assert.match(html, /California Anniversary Road Trip/i);
+  assert.match(html, new RegExp(`${basePath}/cinematic-hero\\.png`));
+  assert.match(html, new RegExp(`${basePath}/california-master-itinerary\\.xlsx`));
+  assert.match(html, new RegExp(`${basePath}/assets/`));
 });
 
 test("keeps workbook invariants and required assets", async () => {

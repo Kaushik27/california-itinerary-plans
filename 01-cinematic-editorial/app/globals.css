@@ -1151,7 +1151,10 @@ body {
   border: 0;
   border-left: 1px solid var(--border);
   border-radius: 0;
-  background: var(--surface) url("/light-route-map.png") center / cover no-repeat;
+  background-color: var(--surface);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
   box-shadow: none;
 }
 .story-map-card .route-map { height: 575px; border-radius: 0; background: transparent; }
